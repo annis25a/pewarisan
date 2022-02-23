@@ -1,1 +1,1 @@
-# pewarisan
+# inheritance
